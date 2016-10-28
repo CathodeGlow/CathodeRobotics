@@ -1,1 +1,1 @@
-githubpages https://cathodeglow.github.io/CathodeRobotics
+githubpages https://github.com/CathodeGlow/CathodeRobotics
